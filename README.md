@@ -16,4 +16,4 @@
 
 
 ### 📃 Data Management Business Analytics IYKRA
-https://www.linkedin.com/in/rahardito-dio-prastowo-59079114a/detail/treasury/position:1757444804/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACQRFvwBTTp4KiIzFUGfbHti3SR6hoPpKdE%2C1635457379672)&section=position%3A1757444804&treasuryCount=4
+https://tinyurl.com/szw2mrfm
