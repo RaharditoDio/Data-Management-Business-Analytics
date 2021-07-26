@@ -1,7 +1,7 @@
 ## Data Management Business Analytics IYKRA
 
 ### 📚 About
-[Data Management Business Analytics IYKRA](https://iykra.com/datamba/) is an exclusive learning program for future business leaders. In addition to studying business cases, participants are also equipped with data analytics capabilities.
+[Data Management Business Analytics IYKRA](https://iykra.com/datamba/) is an exclusive learning program for future business leaders. In addition to studying business cases, participants are also equipped with data analytics capabilities
 
 ### 📚 Contents
 
