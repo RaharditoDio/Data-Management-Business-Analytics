@@ -7,7 +7,7 @@
 
 1. [Data Analysis]
     - [Exploratory Data Analysis] [[📂](https://github.com/RaharditoDio/Data-Management-Business-Analytics/blob/main/Exploratory%20Data%20Analysis.ipynb)]
-    - [Data Cleansing] [[📂]()]
+    - [Data Cleansing] [[📂](https://github.com/RaharditoDio/Data-Management-Business-Analytics/blob/main/Data%20Cleansing.ipynb)]
     - [Data Manipulation in Python] [[📂]()]
 2. [Data Science and Machine Learning]
     - [Regression] [[📂](https://github.com/RaharditoDio/Data-Management-Business-Analytics/blob/main/Linear%20Regression.ipynb)]
